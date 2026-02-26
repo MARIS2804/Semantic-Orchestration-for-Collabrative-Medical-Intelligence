@@ -1,0 +1,5 @@
+pip install streamlit pandas spacy scikit-learn numpy neo4j torch transformers langchain-huggingface langchain-community faiss-cpu
+
+pip install https://s3-us-west-2.amazonaws.com
+
+pip install accelerate
